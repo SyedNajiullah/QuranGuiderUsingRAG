@@ -1,6 +1,6 @@
 # Quran Guider using RAG
 
-![RAG Workflow](RAG_workflow.jpg)
+![RAG Workflow](RAG_workflow.png)
 
 A beginner‑friendly Retrieval‑Augmented Generation (RAG) project that answers questions about the Qur’an using a PDF of **“The Qur’an with Annotated Interpretation in Modern English – Ali Ünal”**, dense embeddings, FAISS as a vector database, and the **Gemma‑2‑2B‑IT** language model.
 
