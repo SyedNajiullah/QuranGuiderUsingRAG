@@ -28,8 +28,8 @@ Everything is implemented in a single Colab‑ready notebook:
 
 ## 📁 Project structure
 
-├── QuranGuiderUsingRAG.ipynb # Main notebook (all code)
-├── RAG_workflow.jpg # RAG workflow diagram (used in README)
+├── QuranGuiderUsingRAG.ipynb # Main notebook (all code) <br>
+├── RAG_workflow.jpg # RAG workflow diagram (used in README) <br>
 └── the-quran-with-annotated-interpretation-in-modern-english-ali-unal.pdf
 
 ## ⚙️ Setup
