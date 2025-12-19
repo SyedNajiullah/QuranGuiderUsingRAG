@@ -1,4 +1,4 @@
-# Quran Guider using RAG
+# 🕌 Quran Guider using RAG
 
 ![RAG Workflow](RAG_workflow.png)
 
