@@ -4,7 +4,7 @@
 
 A beginner‑friendly Retrieval‑Augmented Generation (RAG) project that answers questions about the Qur’an using a PDF of **“The Qur’an with Annotated Interpretation in Modern English – Ali Ünal”**, dense embeddings, FAISS as a vector database, and the a large language model.
 
-Everything is implemented in a single Colab‑ready notebook:
+Everything is implemented in two Colab‑ready notebook:
 
 > `QuranGuiderUsingRAG.ipynb`
 > `LangChainVersion.ipynb`
